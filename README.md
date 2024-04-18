@@ -1,6 +1,6 @@
 ### README.md
 
-```markdown
+
 # FedAvg Project
 
 ## 專案描述
