@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### 目錄結構
 
-```
+
 FedAvg/
 │  .gitignore
 │  main.py
